@@ -3,7 +3,7 @@
     <ul id="nav-primary" class="nav nav-primary">
         <head>
 <img src="SVNIT_Logo.png" alt="SVNIT_Logo" width="110" height="110">
-            <h1>DEPARTMENT OF MATHEMATICS AND HUMANITIES<\h1>
+            <h1>DEPARTMENT OF MATHEMATICS AND HUMANITIES</h1>
         </head>
 <body>
 <i class="fa fa-github fa-5x"></i>
