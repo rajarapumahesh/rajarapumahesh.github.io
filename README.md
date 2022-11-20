@@ -2,7 +2,7 @@
 <div class="module menu center">
     <ul id="nav-primary" class="nav nav-primary">
         <head>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<img src="SVNIT_Logo" alt="Trulli" width="500" height="333">
         </head>
 <body>
 <i class="fa fa-github fa-5x"></i>
