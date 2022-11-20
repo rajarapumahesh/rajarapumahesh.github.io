@@ -2,7 +2,7 @@
 <div class="module menu center">
     <ul id="nav-primary" class="nav nav-primary">
         <head>
-<img src="SVNIT_Logo.png" alt="SVNIT_Logo" width="500" height="333">
+<img src="SVNIT_Logo.png" alt="SVNIT_Logo" width="200" height="120">
         </head>
 <body>
 <i class="fa fa-github fa-5x"></i>
