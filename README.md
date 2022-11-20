@@ -1,7 +1,7 @@
 <div class="col-sm-6">
     <div class="testimonial testimonial-1">
         <div class="quote">
-            These tutorials are <strong>excellent</strong>. I’ve learned so much. I can’t wait to try more!
+            <strong>Department of Mathematics and Humanities</strong>
         </div>
         <div class="author with-image">
             <img src="1.png" alt="testimonial author avatar">
