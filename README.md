@@ -11,6 +11,8 @@
 </body>
         <li><a href="#home">Start</a></li>
         <li><a href="#events">Events</a></li>
+        <li><a href="#events">decipher</a></li>
+        <li><a href="#events">paper presentation</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#contact">Contact</a></li>
     </ul>
