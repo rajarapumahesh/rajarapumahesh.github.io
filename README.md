@@ -1,4 +1,5 @@
 <!-- Primary Menu -->
+@import "{{ site.theme }}";
 <div class="module menu center">
     <ul id="nav-primary" class="nav nav-primary">
         <head>
